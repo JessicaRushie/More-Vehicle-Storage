@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<xml>
+    <ModInfo>
+        <Name value="More Vehicle Storage"/>
+        <Description value="Increases vehicle Storage"/>
+        <Author value="Jessica Rushie"/>
+        <Version value="1.0"/>
+    </ModInfo>
+</xml>
